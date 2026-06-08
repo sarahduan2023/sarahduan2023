@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">> Current Stack:** Compiling abstract geometry into intelligent medical solutions. 🧠 🧬</h6>
+<h6 align="left">> Current Stack: Compiling abstract geometry into intelligent medical solutions. 🧠 🧬</h6>
 
 ###
 
