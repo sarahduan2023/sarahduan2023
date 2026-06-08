@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">Hi !My name is JinFan Duan and I'm a from Toronto Canada High school</h6>
+<h6 align="left">> **Current Stack:** Compiling abstract geometry into intelligent medical solutions. 🧠 🧬</h6>
 
 ###
 
