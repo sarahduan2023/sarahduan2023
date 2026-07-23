@@ -1,29 +1,33 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left"> # Hi, I'm Sarah Duan 👋
 
-###
+> *Compiling abstract geometry into intelligent medical solutions & exploring human-AI relational ethics. 🧠🧬*
 
-<h6 align="left">> Current Stack: Compiling abstract geometry into intelligent medical solutions. 🧠 🧬</h6>
+---
 
-###
+## 💡 About Me
 
-<h2 align="left">About me</h2>
+I bridge pure mathematics, computer science, and practical medical technologies.
 
-###
+* 📐 **Pure Mathematics:** Deeply interested in **Morse theory**, **advanced geometry**, probability theory, and the **generalized Riemann-Roch theorem**.
+* 💻 **Computer Science & AI:** Started programming in 2021, focusing on machine learning algorithms, modern web technologies, and human-AI relational ethics.
+* ⚕️ **Mission:** Translating abstract mathematical theory into cutting-edge, intelligent healthcare solutions.
 
-<p align="left">I am interested in how machine learning, algorithms, and computer science can be applied to support the medical field. I have been interested in Morse theory, advanced geometry, probability theory, and generalized Riemann-Roch theorem for nearly a decade. My interest in computer science is relatively new. I started programming in early 2021 and became interested in abstract mathematics and artificial intelligence.
- 
-### 📝 Recent Research
+---
 
-* **[The Philosophical Limits of AI Politeness on the Eve of AGI](https://github.com/sarahduan2023/STP-2026)** (2026)
+## 🔬 Recent Research
+
+* 📄 **[The Philosophical Limits of AI Politeness on the Eve of AGI](https://github.com/sarahduan2023/STP-2026)** (2026)  
   *A philosophical exploration of human-AI relational ethics, moving beyond "utilitarian friendship" toward a robust moral grammar.*
 
-You can contact me at SarahDuan2007@proton.me
+---
 
-###
+## 📬 Connect with Me
+
+* 📧 **Email:** [SarahDuan2007@proton.me](mailto:SarahDuan2007@proton.me)
 
 <h2 align="left">I code with</h2>
 
-###
+### 🛠️ Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
