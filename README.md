@@ -1,4 +1,4 @@
-<h1 align="left"> # Hi, I'm Sarah Duan 👋
+<h1 align="left">  Hi, I'm Sarah Duan 👋
 
 > *Compiling abstract geometry into intelligent medical solutions & exploring human-AI relational ethics. 🧠🧬*
 
