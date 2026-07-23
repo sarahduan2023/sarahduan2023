@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">I am interested in how machine learning, algorithms, and computer science can be applied to support the medical field. I have been interested in Morse theory, advanced geometry, probability theory, and generalized Riemann-Roch theorem for nearly a decade. My interest in computer science is relatively new. I started programming in early 2021 and became interested in abstract mathematics and artificial intelligence.<br><br>You can contact me at SarahDuan2007@proton.me</p>
+<p align="left">I am interested in how machine learning, algorithms, and computer science can be applied to support the medical field. I have been interested in Morse theory, advanced geometry, probability theory, and generalized Riemann-Roch theorem for nearly a decade. My interest in computer science is relatively new. I started programming in early 2021 and became interested in abstract mathematics and artificial intelligence.
+### 📝 Recent Research
+
+* **[The Philosophical Limits of AI Politeness on the Eve of AGI](https://github.com/sarahduan2023/STP-2026)** (2026)
+  *A philosophical exploration of human-AI relational ethics, moving beyond "utilitarian friendship" toward a robust moral grammar.*<br><br>You can contact me at SarahDuan2007@proton.me</p>
 
 ###
 
